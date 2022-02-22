@@ -11,4 +11,4 @@
 <li>Nos unir ao nos deparar com erros;</li>
 <li>Errar, solucionar e aprender em conjunto.</li>
 <br><br>@@ envolvidos:<br>
-Enio, Adryel Simon, Reinier, Lucas Veigas, Helenilson, Guilherme, Pedro [...]
+Enio, Adryel Simon, Reinier, Lucas Veiga, Helenilson, Guilherme, Pedro, Victor, Isabela, Frederic [...];
