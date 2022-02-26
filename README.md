@@ -11,4 +11,4 @@
 <li>Nos unir ao nos deparar com erros;</li>
 <li>Errar, solucionar e aprender em conjunto.</li>
 <br><br>@@ envolvidos:<br>
-<a href="https://github.com/unchargedash/">Enio</a>, <a href="https://github.com/Alchemist-developer">Adryel Simon</a>, <a href="https://github.com/rainierpironi">Reinier</a>, <a href="https://github.com/lucasveigaa">Lucas Veiga</a>, <a href="https://github.com/helenilsonholamek">Helenilson</a>, <a href="https://github.com/jguigo">Guilherme</a>, <a href="https://github.com/OSrB2">Pedro</a>, <a href="">Victor</a>, <a href="https://github.com/VWPTD">Isabela</a>, <a href="">Frederic</a>, [...];
+<a href="https://github.com/unchargedash/">Enio</a>, <a href="https://github.com/Alchemist-developer">Adryel Simon</a>, <a href="https://github.com/rainierpironi">Reinier</a>, <a href="https://github.com/lucasveigaa">Lucas Veiga</a>, <a href="https://github.com/helenilsonholamek">Helenilson</a>, <a href="https://github.com/jguigo">Guilherme</a>, <a href="https://github.com/OSrB2">Pedro</a>, <a href="">Victor</a>, <a href="https://github.com/VWPTD">Isabela</a>, <a href="https://github.com/fredericlsr">Frederic</a>, [...];
